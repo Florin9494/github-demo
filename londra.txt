@@ -1,0 +1,77 @@
+
+https://www.udemy.com/courses/development/all-courses/?language=en&price=price-free&sort=highest-rated
+1. HTML 100%
+2. CSS 80%
+3. Bootstrap 80%
+4. PHP 100%
+5. SQL/MYSQL90%	https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
+6. OOP 80%	https://www.udemy.com/oop-php-object-oriented-programing-with-project-1-course/  https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website/learn/v4/content
+7. Laravel	https://www.udemy.com/courses/search/?q=laravel%205.6&src=ukw&sort=most-reviewed&p=1&lang=en
+8. Symfony	https://www.udemy.com/learn-symfony-4-hands-on-creating-a-real-world-application/	https://www.udemy.com/courses/search/?q=symfony&src=ukw&sort=most-reviewed&p=1&lang=en
+9. GIT 50%	https://www.udemy.com/git-complete/	
+10. LARAVEL	Laravel course, sectiunea GIT
+11. Javascript	https://www.udemy.com/the-complete-javascript-course/
+12. jQuery	https://www.udemy.com/jquery-tutorial/
+13. Ajax 	https://www.udemy.com/ajax-for-beginners-with-jquery-php-mysql-tutorial/
+------------------------------------------------------------------------------------
+-alternez cu un curs de developer
+------------------------------------------------------------------------------------
+14. Rest,SOAP API	https://www.udemy.com/restful-api-with-laravel-php-homestead-passport-hateoas/	https://www.udemy.com/api-rest-soap-testing-using-jmeter-with-real-examples/
+15. ReactJs   	https://www.udemy.com/react-redux/	https://www.udemy.com/the-complete-react-native-and-redux-course/
+16. Angular JS 	https://www.udemy.com/the-complete-guide-to-angular-2/
+17. MongoDB 	https://www.udemy.com/the-complete-developers-guide-to-mongodb/
+18. NodeJs 	https://www.udemy.com/the-complete-nodejs-developer-course-2/ https://www.udemy.com/nodejs-for-beginners-become-a-nodejs-developer/
+18.1. https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/ sectiunea "Introducting Node"
+18.2. https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/
+19. Vue		https://www.udemy.com/vuejs-2-the-complete-guide/
+20. NoSql	https://www.udemy.com/learn-mongodb-leading-nosql-database-from-scratch/
+21. Backbone js	https://www.udemy.com/backbonejs-tutorial/
+22. Photoshop	https://www.udemy.com/graphic-design-for-beginners/
+23. Python	https://www.udemy.com/complete-python-bootcamp/	https://www.udemy.com/the-modern-python3-bootcamp/
+24. PostgreSQL 	The Complete Python & PostgreSQL Developer Course
+25. Machine Learning	https://www.udemy.com/machinelearning/
+26. Queues & Redis	https://www.udemy.com/learn-redis-from-scratch/
+27. Wordpress 	The Complete WordPress Website Business Course
+28. Java	https://www.udemy.com/java-the-complete-java-developer-course/
+29. Android 	The Complete Android N Developer Course   The Complete Android Oreo Developer Course - Build 23 Apps!   Projects In Android
+30. Ionic	https://www.udemy.com/ionic-2-the-practical-guide-to-building-ios-android-apps/
+31. ElasticSearch	https://www.udemy.com/elasticsearch-complete-guide/
+32. Rabbit MQ	https://www.udemy.com/rabbitmq-the-complete-guide-with-software-architecture-applications/
+33. google Analytics	https://www.udemy.com/learn-digital-marketing-course/
+34. Linux	https://www.udemy.com/learn-linux-in-5-days/	https://www.udemy.com/linux-crash-course/
+35. Hacking 	https://www.udemy.com/learn-ethical-hacking-from-scratch/	https://www.udemy.com/penetration-testing/	https://www.udemy.com/the-complete-internet-security-privacy-course-volume-1/	https://www.udemy.com/network-security-course/
+36. Cloud computing architecting	https://www.udemy.com/introduction-to-cloud-computing-with-amazon-web-services/	https://www.udemy.com/amazon-web-services-for-web-hosting-cloud-computing/
+37. Django	https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/
+38. DevOps	https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops/
+39. JPA		https://www.udemy.com/hibernate-jpa-tutorial-for-beginners-in-100-steps/
+40. Vaadin	https://www.udemy.com/java-ee-with-vaadin-spring-boot-and-maven/
+41. Servlets	https://www.udemy.com/jsp-tutorial/
+42. Tomcat	https://www.udemy.com/the-complete-apache-tomcat-web-server-course/
+43. Maven	https://www.udemy.com/apachemaven/
+44. TypeScript	https://www.udemy.com/understanding-typescript/
+
+https://www.udemy.com/complete-web-development-course/
+1. The Web Developer Bootcamp	https://www.udemy.com/the-web-developer-bootcamp/
+2. The Advanced web developer bootcamp	https://www.udemy.com/the-advanced-web-developer-bootcamp/
+https://www.udemy.com/thecompletewebdeveloper/
+3. The Complete Android Oreo Developer Course - Build 23 Apps!
+4. Java Programming for Complete Beginners in 250 Steps (Free)
+5. Ionic 2/ Ionic 3 - Build iOS & Android Apps with Angular
+6. Learning Python for Data Analysis and Visualization
+7. Complete C# Unity Developer 2D - Learn to Code Making Games
+8. The Unreal Engine Developer Course - Learn C++ & Make Games
+9. Python Game Development™ : Build 11 Total Games
+10. Selenium WebDriver with Java - Basics to Advanced& Interview
+11. Computer Science 101: Master the Theory Behind Programming
+12. Python A-Z™: Python For Data Science With Real Exercises!
+13. Learn Website Hacking / Penetration Testing From Scratch
+14. Learn Ethical Hacking From Scratch
+15. The Definitive Ethical Hacking Course - Learn From Scratch
+16.The Complete Cyber Security Course : Anonymous Browsing!
+17. Learn Linux in 5 Days and Level Up Your Career
+18. Productivity Mastery Hacks - Work Less, Do More
+19. How To Get More Done In 3 Hours Than Most Do In 3 Days
+20. Google Sites - Getting started Guide to Quick Websites
+21. Sounds True's Freedom to Choose Something Different, Part 1
+
+
